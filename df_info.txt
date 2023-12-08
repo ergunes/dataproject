@@ -1,0 +1,39 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1980288 entries, 0 to 1980287
+Data columns (total 32 columns):
+ #   Column               Dtype  
+---  ------               -----  
+ 0   Code INSEE région    int64  
+ 1   Région               object 
+ 2   Nature               object 
+ 3   Date                 object 
+ 4   Heure                object 
+ 5   Date - Heure         object 
+ 6   Consommation (MW)    float64
+ 7   Thermique (MW)       float64
+ 8   Nucléaire (MW)       float64
+ 9   Eolien (MW)          float64
+ 10  Solaire (MW)         float64
+ 11  Hydraulique (MW)     float64
+ 12  Pompage (MW)         float64
+ 13  Bioénergies (MW)     float64
+ 14  Ech. physiques (MW)  float64
+ 15  Stockage batterie    float64
+ 16  Déstockage batterie  float64
+ 17  Eolien terrestre     float64
+ 18  Eolien offshore      float64
+ 19  TCO Thermique (%)    float64
+ 20  TCH Thermique (%)    float64
+ 21  TCO Nucléaire (%)    float64
+ 22  TCH Nucléaire (%)    float64
+ 23  TCO Eolien (%)       float64
+ 24  TCH Eolien (%)       float64
+ 25  TCO Solaire (%)      float64
+ 26  TCH Solaire (%)      float64
+ 27  TCO Hydraulique (%)  float64
+ 28  TCH Hydraulique (%)  float64
+ 29  TCO Bioénergies (%)  float64
+ 30  TCH Bioénergies (%)  float64
+ 31  Column 30            float64
+dtypes: float64(26), int64(1), object(5)
+memory usage: 483.5+ MB
